@@ -1,3 +1,4 @@
+package _01_Java_Basics;
 // Avem un nr de incasari pe zile si vrem sa calculam celemai mari incasari pe k zile consecutive
 
 public class MaxSumOfKSubsequence {
